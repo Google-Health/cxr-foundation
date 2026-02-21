@@ -1,4 +1,4 @@
-google-cloud-aiplatform~=1.74.0
+google-cloud-aiplatform~=1.133.0
 tensorflow-hub~=0.16.1
 tensorflow-text~=2.18.0
 huggingface-hub~=0.26.5
